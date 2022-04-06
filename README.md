@@ -1,6 +1,6 @@
 # Skill - Level 2
 
-### User storie:
+### User story:
 
 En tant qu'utilisateur\
 Je souhaite pouvoir mettre à jour mes données, depuis le formulaire de la page information\
