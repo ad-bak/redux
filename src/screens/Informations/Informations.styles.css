@@ -1,0 +1,12 @@
+.appContainer {
+  display: flex !important;
+  flex: 1;
+  background-color: #f7f7f7;
+  align-items: center;
+  justify-content: center;
+}
+.appBack {
+  display: inline-block;
+  color: #000000;
+  margin-bottom: 20px;
+}
