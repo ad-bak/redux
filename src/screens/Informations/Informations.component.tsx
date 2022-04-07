@@ -23,7 +23,7 @@ export const Informations: FunctionComponent = () => {
           </Link>
           <Form>
             <Form.Input fluid label='Nom' placeholder='Nom' onChange={handleChange('name')} />
-            <Form.Input type='date' fluid label='Date de naissance' placeholder='Date de naissance' onChange={handleChange('birthday')} />
+            <Form.Input fluid label='Date de naissance' placeholder='Date de naissance' onChange={handleChange('birthday')} />
             <Form.Input fluid label='Description' placeholder='Description' onChange={handleChange('description')} />
           </Form>
         </Card.Content>
